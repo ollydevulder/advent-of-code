@@ -1,4 +1,4 @@
-with open("input.txt", 'r') as input:
+with open("./input.txt", 'r') as input:
     floor, position, counter = 0,0,1
     for char in input.readline():
         if char == '(':
