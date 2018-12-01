@@ -33,4 +33,4 @@ with open("input.txt") as input:
         i[1],i[2] = [int(a) for a in i[1].split(',')], [int(a) for a in i[2].split(',')]
         change(i[0],i[1][0],i[1][1],i[2][0],i[2][1])
         counter+=1
-print(totalOn())
+print('\n'+str(totalOn()))
