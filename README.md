@@ -11,3 +11,4 @@ btw I've done everything in __*python*__.
   * [6](https://adventofcode.com/2015/day/6) __\*\*__
 * __2018__
   * [1](https://adventofcode.com/2018/day/1) __\*\*__
+  * [2](https://adventofcode.com/2018/day/2) __\*\*__
