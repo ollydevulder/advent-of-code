@@ -11,8 +11,7 @@ for claim in claims:
         for x in range(Claim[0][0], Claim[0][0] + Claim[1][0]):
             sq = square_inches[x][y]
             if sq == None: continue
-            if sq == False:
-                square_inches[x][y] = True
+            elif sq == False: square_inches[x][y] = True
             else:
                 count+=1
                 square_inches[x][y] = None
