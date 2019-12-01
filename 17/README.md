@@ -1,2 +1,2 @@
-# advent-of-code
-These are for 2017
+# 2017
+:(
