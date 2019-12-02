@@ -1,5 +1,5 @@
 # Advent of Code!
-The dump for my [Advent of Code](http://adventofcode.com/) solutions.
+The dump for my [Advent of Code](http://adventofcode.com/) solutions. All python currently.
 # Completed
 ## __2015__
 * [1](https://adventofcode.com/2015/day/1) __⭐⭐__
