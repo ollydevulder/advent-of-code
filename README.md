@@ -17,3 +17,4 @@ The dump for my [Advent of Code](http://adventofcode.com/) solutions. All python
 * [2](https://adventofcode.com/2019/day/2) __⭐⭐__
 * [3](https://adventofcode.com/2019/day/3) __⭐⭐__
 * [4](https://adventofcode.com/2019/day/4) __⭐⭐__ *very gross*
+* [8](https://adventofcode.com/2019/day/8) __⭐⭐__
